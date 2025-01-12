@@ -7,3 +7,6 @@ test plan for the app "Online Store"
 
 check list
 - [Ссылка на документ](https://docs.google.com/spreadsheets/d/15e5Hd8hpqYXbGrc4b_505nycblRvCi6lnqqOneeY9AA/edit?usp=sharing)
+
+test case (modules "Cart Management", "Order Management")
+- [Ссылка на документ](https://app.qase.io/project/G9?previewMode=side&suite=234&tab=properties)
