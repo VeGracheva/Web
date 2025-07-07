@@ -1,23 +1,22 @@
 # Web
 
-# Web App Testing
+# Тестирование веб-приложений
+Для приложения "Интернет-магазин" необходимо было:создать тест-план для тестирования приложения; написать чек-лист для тестирования корзины и оплаты; написать тест-кейсы ; выполнить тестовый прогон; составить отчеты о дефектах. Также необходимо было сделать перехват и изменение трафика с помощью Charles Proxy.
 
-test plan for the app "Online Store"
+Тест-план для тестирования приложения "Интернет-магазин"
 - [Ссылка на документ](https://docs.google.com/spreadsheets/d/1C4bPqDWvrNT9rqXsY5PLU8roVJuIWl8AxlRUqvinDLY/edit?usp=sharing)
 
-check list
+Чек-лист для тестирования корзины и оплаты
 - [Ссылка на документ](https://docs.google.com/spreadsheets/d/15e5Hd8hpqYXbGrc4b_505nycblRvCi6lnqqOneeY9AA/edit?usp=sharing)
 
-test case (modules "Cart Management", "Order Management")
-- [Ссылка на документ](https://app.qase.io/project/G9?previewMode=side&suite=234&tab=properties)
+Тест-кейсы из системы Qase, экспортированные в формате PDF (modules "Cart Management", "Order Management")
+- [Ссылка на документ](https://drive.google.com/file/d/1AiT8eSbh1_Hf95S-O_nzZuo_2B6Q0g1o/view?usp=share_link)
 
-test run results
+Файл с результатами тестового прогона из системы Qase, экспортированными в формате PDF
 - [Ссылка на документ](https://drive.google.com/file/d/1AAP01DN0Lo0etfOkrJ8kNpGp41lUftYb/view?usp=sharing)
-- [Ссылка на документ](https://app.qase.io/project/G9?previewMode=side&suite=234&tab=properties)
 
-bug reports
+Отчеты о дефектах из системы YouTrack, экспортированне в формате XLSX
 - [Ссылка на документ](https://docs.google.com/spreadsheets/d/1Fwfleu3P2YgZmthEMyw3CHO4NHCVkSj2/edit?usp=sharing&ouid=101630438106977892614&rtpof=true&sd=true)
-- [Ссылка на документ](https://artsiomrusau.youtrack.cloud/issue/G9-1036/Web-App-Testing-Vera-Gracheva)
 
 Перехват и изменение трафика с помощью Charles Proxy
 - [Ссылка на видео 1](https://drive.google.com/file/d/1emMvUVL662riIxwoGuHbdd6iNSRX7r7k/view?usp=share_link)
